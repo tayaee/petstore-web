@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.tayaee.web</groupId>
-  <artifactId>petstore-web</artifactId>
+  <artifactId>petstore</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>petstore-web Maven Webapp</name>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>petstore-web</finalName>
+    <finalName>petstore</finalName>
   </build>
 </project>

@@ -5,7 +5,7 @@
   <artifactId>petstore</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>petstore-web Maven Webapp</name>
+  <name>petstore-web v1</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
